@@ -1,7 +1,9 @@
 # Distribution / packaging
 dist/
 build/
-
+transcripts/
+video_lists/
+venv-cli/
 # Local preferences
 preferences.ini
 
