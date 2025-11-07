@@ -1,0 +1,9 @@
+# Distribution / packaging
+dist/
+build/
+
+# Local preferences
+preferences.ini
+
+# Python cache
+__pycache__/
